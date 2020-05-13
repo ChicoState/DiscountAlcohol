@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:discount_alcohol/main.dart';
+import 'package:main.dart';
 
 void main() {
   testWidgets('Check for all alcohol buttons', (WidgetTester tester) async {
