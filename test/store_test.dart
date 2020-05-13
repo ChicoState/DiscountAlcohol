@@ -10,10 +10,10 @@ void main() {
     bool wineEquals = store.findAlcoholPrice("Wine") == 3.5;
     bool vodkaEquals = store.findAlcoholPrice("Vodka") == 4.5;
     bool whiskeyEquals = store.findAlcoholPrice("Whiskey") == 5.5;
-    bool ginEquals = store.findAlcoholPrice("Whiskey") == 6.5;
-    bool champagneEquals = store.findAlcoholPrice("Whiskey") == 7.5;
-    bool rumEquals = store.findAlcoholPrice("Whiskey") == 8.5;
-    bool tequilaEquals = store.findAlcoholPrice("Whiskey") == 9.5;
+    bool ginEquals = store.findAlcoholPrice("gin") == 6.5;
+    bool champagneEquals = store.findAlcoholPrice("champange") == 7.5;
+    bool rumEquals = store.findAlcoholPrice("rum") == 8.5;
+    bool tequilaEquals = store.findAlcoholPrice("tequila") == 9.5;
     bool good = beerEquals && wineEquals && vodkaEquals && whiskeyEquals && ginEquals && champagneEquals && rumEquals && tequilaEquals;
     expect(good, true);
   });
