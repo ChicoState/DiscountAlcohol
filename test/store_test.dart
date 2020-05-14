@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:discount_alcohol/store.dart';
+import 'package:discount_alcohol/main.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 void main() {
