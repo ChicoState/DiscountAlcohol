@@ -26,7 +26,7 @@ void main() {
   });
 
  test('calculate distance check', (){
-   MapPageFrame store;
+   MapPageState store;
    double distance = store.calculateDistance(10,20,30,40);
    expect(distance, 1889.342998);
  });
