@@ -28,4 +28,13 @@ void main() {
 
 
   });
+  testWidgets('Check to find no widgets', (WidgetTester tester) async {
+    await tester.pumpWidget(MyHomePage());
+
+    expect(find.text('beer'), findsNothing);
+    expect(find.text('asdffgsaedrfg'), findsNothing);
+    expect(find.text('Be3r'), findsNothing);
+    expect(find.text(''), findsNothing);
+
+  });
 }
