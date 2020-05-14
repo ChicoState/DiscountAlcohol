@@ -29,11 +29,11 @@ void main() {
    MapPageState store;
    double distance = store.calculateDistance(10,20,30,40);
    expect(distance, 1889.342998);
- });*/
+ });
   testWidgets('Check homepage', (WidgetTester tester) async {
 
     await tester.pumpWidget(MyHomePage());
-  });
+  });*/
 }
 
 
