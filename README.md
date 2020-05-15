@@ -7,3 +7,5 @@ Currently we have stores located in Chico. This is perfect for your average part
 Whether you need beer, wine, gine, whiskey, etc this app will get you the alcohol you need!
 
 *This is not a installation guide for flutter. I am only describing the app and its functionality*
+
+![test](./Images/test "TITLE TEST")
