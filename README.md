@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/askudlarek/DiscountAlcohol.svg?branch=master)](https://travis-ci.org/askudlarek/DiscountAlcohol)
+
+
+[![Coverage Status](https://coveralls.io/repos/github/askudlarek/DiscountAlcohol/badge.svg?branch=master)](https://coveralls.io/github/askudlarek/DiscountAlcohol?branch=master)
+
+
 # DiscountAlcohol
 
 This application is designed for people to find alcohol, within a price range and distance from them, and guide them to a store location matching their needs.
