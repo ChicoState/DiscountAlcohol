@@ -8,4 +8,4 @@ Whether you need beer, wine, gine, whiskey, etc this app will get you the alcoho
 
 *This is not a installation guide for flutter. I am only describing the app and its functionality*
 
-![test](https://github.com/AustinPope/DiscountAlcohol/images/test)
+![test](https://github.com/AustinPope/DiscountAlcohol/Images/test)
